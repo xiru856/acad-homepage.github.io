@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xiru Hang"
-  avatar           : "personal picture.png"
+  avatar           : "images/personal picture.png"
   bio              : "Shenzhen University"
   location         : "Shenzhen, China"
   employer         :
