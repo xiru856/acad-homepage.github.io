@@ -43,8 +43,9 @@ My research interest includes sustainable structure deveopment and damage assess
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.10* National College Students Military Mathematical Modeling Contest (Third Prize)
+- *2018.09* The 15th Jiangsu Province College Students Physics and Experimental Science and Technology Works Innovation Competition (Second Prize)
+- *2017-2023*	Academic Scholarship
 
 # 📖 Educations
 - *2017.09-2021.06*, Bachelor, Nanjing Forestry University, China  
