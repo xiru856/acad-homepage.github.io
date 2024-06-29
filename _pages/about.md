@@ -46,9 +46,9 @@ My research interest includes sustainable structure deve;opment and damage asses
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2021.09 - 2024.06 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2017.09 - 2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+%# 📖 Educations
+%- *2021.06*, Bachelor，Nanjing Forestry University, China  
+%- *2021.03*, Master, Shenzhen University, China
 
 # 💬 Invited Talks
 - *2021.06*, Bachelor，Nanjing Forestry University, China 
