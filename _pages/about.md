@@ -47,8 +47,8 @@ My research interest includes sustainable structure deveopment and damage assess
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2021.06*, Bachelor, Nanjing Forestry University, China  
-- *2021.03*, Master, Shenzhen University, China
+- *2017.09-2021.06*, Bachelor, Nanjing Forestry University, China  
+- *2021.09-2024.06*, Master, Shenzhen University, China
 
 # 💻 Internships
 - *2023.06 - 2023.09*, [TYLIN]([https://zh-cn.tylin.com/]), China.
