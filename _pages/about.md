@@ -29,7 +29,7 @@ For more information or to discuss related research topics, please feel free to 
 
 
 # 🔥 News
-- *2023.04*: &nbsp;🎉🎉 Participated in the First Quarter 2023 Seminar of the Major Project "Fundamental Theory of Resilience for Deep Underground Space in Mega Cities" funded by the National Natural Science Foundation of China.. 
+- *2023.04*: &nbsp;🎉🎉 Participated in the First Quarter 2023 Seminar of the Major Project "Fundamental Theory of Resilience for Deep Underground Space in Mega Cities" funded by the National Natural Science Foundation of China.
 
 # 📝 Publications 
 - [Minsheng Guan, Xiru Hang, et al. Development and implementation of shear wall finite element in OpenSees[J]. Engineering Structures. 2024, 304: 117639.](https://doi.org/10.1016/j.engstruct.2024.117639)
