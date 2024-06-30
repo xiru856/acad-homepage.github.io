@@ -32,19 +32,6 @@ For more information or to discuss related research topics, please feel free to 
 - *2023.04*: &nbsp;🎉🎉 Participated in the First Quarter 2023 Seminar of the Major Project "Fundamental Theory of Resilience for Deep Underground Space in Mega Cities" funded by the National Natural Science Foundation of China.. 
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
 - [Minsheng Guan, Xiru Hang, et al. Development and implementation of shear wall finite element in OpenSees[J]. Engineering Structures. 2024, 304: 117639.](https://doi.org/10.1016/j.engstruct.2024.117639)
 - [Xiru Hang, Minsheng Guan, et al. New progress in sesmic resilience assessment of urban structures[J]. World Earthquake Engineering. 2024, 40(1).(in Chinese)](https://pubs.cstam.org.cn/article/doi/10.19994/j.cnki.WEE.2024.0004)
 - [Guan MS, Sha M, Wang JH, Hang XR, et al. Cyclic behavior of self-slitting squat composite shear walls with concrete-filled steel tubes: Experiment[J]. Journal of Construction Steel Research. 2023, 210: 108054.](https://www.sciencedirect.com/science/article/abs/pii/S0143974X2300281X)
