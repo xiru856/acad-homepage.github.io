@@ -19,15 +19,13 @@ redirect_from:
 
 My name is Xiru Hang, and I am currently pursuing a Master's degree in Civil Engineering at Shenzhen University, focusing on the seismic resilience of underground structures.
 
-My research interests are primarily centered around [briefly describe your research interests]. During my Master's studies, I have participated in several research projects, including the National Natural Science Foundation of China project on the fundamental theories of resilience in deep underground spaces of megacities. Through these experiences, I have accumulated extensive expertise in experimentation and data analysis. Additionally, I have published a paper in Engineering Structures (second author, with my supervisor as the first author), further demonstrating my research and academic writing abilities.
+My research interest includes sustainable structure deveopment and damage assessment. During my Master's studies, I have participated in several research projects, including the National Natural Science Foundation of China project on the fundamental theories of resilience in deep underground spaces of megacities. Through these experiences, I have accumulated extensive expertise in experimentation and data analysis. Additionally, I have published a paper in Engineering Structures (second author, with my supervisor as the first author), further demonstrating my research and academic writing abilities.
 
 In my Ph.D. studies, I aim to delve deeper into the study of structural resilience and sustainability assessment. I am eagerly looking forward to this next step in my academic journey, as it will provide a solid foundation for my research.
 
 In my future academic career, I aspire to contribute to the field of sustainable development through high-quality research. I also look forward to collaborating with other scholars and researchers to advance scientific progress.
 
 For more information or to discuss related research topics, please feel free to contact me via email at hangxiru@gmail.com.
-
-My research interest includes sustainable structure deveopment and damage assessment. I have published 3 papers at the top civil engineering with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
