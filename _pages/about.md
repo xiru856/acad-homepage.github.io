@@ -45,7 +45,9 @@ For more information or to discuss related research topics, please feel free to 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Minsheng Guan, Xiru Hang, et al. Development and implementation of shear wall finite element in OpenSees[J]. Engineering Structures. 2024, 304: 117639.](https://doi.org/10.1016/j.engstruct.2024.117639)
+- [Xiru Hang, Minsheng Guan, et al. New progress in sesmic resilience assessment of urban structures[J]. World Earthquake Engineering. 2024, 40(1).(in Chinese)](https://pubs.cstam.org.cn/article/doi/10.19994/j.cnki.WEE.2024.0004)
+- [Guan MS, Sha M, Wang JH, Hang XR, et al. Cyclic behavior of self-slitting squat composite shear walls with concrete-filled steel tubes: Experiment[J]. Journal of Construction Steel Research. 2023, 210: 108054.](https://www.sciencedirect.com/science/article/abs/pii/S0143974X2300281X)
 
 # 🎖 Honors and Awards
 - *2019.10* National College Students Military Mathematical Modeling Contest (Third Prize)
