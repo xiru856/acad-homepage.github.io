@@ -29,8 +29,7 @@ For more information or to discuss related research topics, please feel free to 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.04*: &nbsp;🎉🎉 Participated in the First Quarter 2023 Seminar of the Major Project "Fundamental Theory of Resilience for Deep Underground Space in Mega Cities" funded by the National Natural Science Foundation of China.. 
 
 # 📝 Publications 
 
