@@ -25,7 +25,7 @@ In my Ph.D. studies, I aim to delve deeper into the study of structural resilien
 
 In my future academic career, I aspire to contribute to the field of sustainable development through high-quality research. I also look forward to collaborating with other scholars and researchers to advance scientific progress.
 
-For more information or to discuss related research topics, please feel free to contact me via email at [Email:hangxiru@mail.com](mailto:hangxiru@gmail.com)
+For more information or to discuss related research topics, please feel free to contact me via email at [Email:hangxiru@gmail.com](mailto:hangxiru@gmail.com)
 
 
 # 🔥 News
